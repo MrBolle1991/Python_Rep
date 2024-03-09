@@ -1,0 +1,2 @@
+string = 'hallo'
+print(string)

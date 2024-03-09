@@ -1,0 +1,5 @@
+zahl1 = input("Bitte eine Zahl eingeben: ")
+zahl2 = input("Bitte eine weitere Zahl eingeben: ")
+produkt = float(zahl1) * float(zahl2)
+str(produkt)
+print('Das Produkt von ' + zahl1 + ' und ' + zahl2 + ' ist ' + str(produkt))
